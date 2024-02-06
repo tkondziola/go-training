@@ -1,0 +1,4 @@
+name: go-training-test
+run-name: ${{name}}
+on: [push]
+
